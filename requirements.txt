@@ -1,0 +1,9 @@
+python-telegram-bot[job-queue]==21.4
+aiosqlite>=0.20.0
+yt-dlp>=2024.8.6
+pydub>=0.25.1
+numpy>=1.26.0
+shazamio>=0.7.0
+mutagen>=1.47.0
+demucs>=4.0.1
+requests>=2.31.0
